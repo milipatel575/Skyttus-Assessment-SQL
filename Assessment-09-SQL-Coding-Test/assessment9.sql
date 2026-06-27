@@ -15,6 +15,8 @@ INSERT INTO employees VALUES
 (4,'Prince',70000,'2026-04-01'),
 (5,'Neel',65000,'2026-03-10');
 
+SELECT * FROM employees;
+
 -- Tasks:
 
 -- 1. Write query to find Nth highest salary.(find 2nd highest salary)
